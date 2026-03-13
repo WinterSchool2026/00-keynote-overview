@@ -2,7 +2,7 @@
 
 This repository serves as the central hub for all keynote presentation material of the Winter School 2026 on **AI for Earth System, Hazards & Climate Extremes**.
 
-| # | Presentation Title | Presentation | Speaker |
+| # | Presentation Title | Presentation</br>(Gradually available) | Speaker |
 |---|-----------------|------------|--------|
 | KN-01 | Early Warning of Complex Climate Risk – AI challenges and opportunities | [View Presentation](https://github.com/WinterSchool2026/00-keynote-overview/presentations/kn01-early-warning-complex-climate-risk.pdf) | [Markus Reichstein](https://www.bgc-jena.mpg.de/en/reichstein) |
 | KN-02 | Beyond XAI: Causal Reasoning for Trustworthy Geoscience AI | [View Presentation](https://github.com/WinterSchool2026/00-keynote-overview/presentations/kn02-beyond-xay.pdf) | [Gustau Camps-Valls](https://www.linkedin.com/in/gustau-camps-valls-0436b8325/) |
